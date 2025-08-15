@@ -77,6 +77,6 @@ Open your browser and go to **[http://127.0.0.1:8000](http://127.0.0.1:8000)** (
 ---
 ## 🚀 Live Demo
 You can view the live version of this project here:  
-[Visit Site](https://your-username.github.io/your-repo-name/)
+[Visit Site](https://srinivasnaren.github.io/my-first-ci-cd-site/)
 
 
