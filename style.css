@@ -1,0 +1,24 @@
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  background: #0f172a;
+  color: #e2e8f0;
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+}
+main {
+  width: min(900px, 92vw);
+  padding: 2rem;
+}
+h1 { margin: 0 0 1rem; font-size: 2rem; }
+.card {
+  background: #111827;
+  border: 1px solid #1f2937;
+  border-radius: 16px;
+  padding: 1rem 1.25rem;
+  margin: 1rem 0 2rem;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.25);
+}
+footer { opacity: 0.8; font-size: 0.9rem; }
