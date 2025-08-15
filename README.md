@@ -75,8 +75,8 @@ Open your browser and go to **[http://127.0.0.1:8000](http://127.0.0.1:8000)** (
 * No need to manually upload files
 
 ---
-
 ## 🚀 Live Demo
+You can view the live version of this project here:  
+[Visit Site](https://your-username.github.io/your-repo-name/)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen)](https://<your-github-username>.github.io/<repo-name>/)
 
